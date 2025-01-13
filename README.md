@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoraf09&label=Profile%20views&color=0e75b6&style=flat" alt="santoraf09" /> </p>
 
 - 🔭 I’m currently working on IT infrastructure
-- 🌱 I’m currently learning Python, SQL and GitHub
+- 🌱 I’m currently learning Javascript, React and NodeJS
 - 📫 How to reach me: rafaelrsantiago@hotmail.com
 - 😄 Pronouns: he/him
 
