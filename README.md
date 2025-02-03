@@ -35,7 +35,8 @@
 
 ### 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact)](https://github.com/santoraf09/github-readme-stats)
+[![Top Langs] https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact&langs_count=3&theme=dark
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact&langs_count=3&theme=dark" alt="Most Used Languages"/>
