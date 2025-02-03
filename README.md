@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact&langs_count=3&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact&langs_count=5&theme=dark)
 
 
 
