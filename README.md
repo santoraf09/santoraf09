@@ -37,6 +37,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact)](https://github.com/santoraf09/github-readme-stats)
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact&langs_count=3&theme=dark" alt="Most Used Languages"/>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoraf09&show_icons=true&theme=dark" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoraf09&theme=dark" alt="GitHub Streak" /></p>
