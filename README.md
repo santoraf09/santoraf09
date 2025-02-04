@@ -21,8 +21,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact&langs_count=5&theme=dark)
-](https://github.com/santoraf09/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoraf09&layout=compact&langs_count=5&theme=dark)(https://github.com/santoraf09/github-readme-stats)]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoraf09&show_icons=true&locale=en" alt="santoraf09" /></p>
 
